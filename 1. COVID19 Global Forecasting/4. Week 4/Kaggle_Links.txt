@@ -1,0 +1,3 @@
+https://www.kaggle.com/madz2000/simple-covid19-week-4-prediction-with-xgbregressor
+
+https://www.kaggle.com/ranjithks/ran-covid-19-week4-ma
